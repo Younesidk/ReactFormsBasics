@@ -1,7 +1,6 @@
 import './App.css'
 import {type SyntheticEvent, useState} from "react";
 import LoginForm from "./LoginForm.tsx";
-import useCounter from "./useCounter.ts";
 import Counter from "./Counter.tsx";
 
 function App() {
